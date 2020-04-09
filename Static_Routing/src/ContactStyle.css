@@ -1,0 +1,8 @@
+.ContactStyle{
+    width:100%;height:300px;
+    background:rgb(241, 127, 111);
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
